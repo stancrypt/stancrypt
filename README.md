@@ -22,7 +22,3 @@ Python & R programming, SQL, Power BI, SPSS, SMART PLS, MATLAB, Excel.
 I transform raw data into meaningful insights that support decision-making, improve operations, and solve real-world problems. I work with tools several to collect, clean, analyze, and visualize data, helping organizations identify trends, measure performance, and make data-driven decisions.
 
 My projects represent practical solutions to business and public health challenges. They demonstrate my ability to manage data, build automated reporting systems, perform statistical analysis, create interactive dashboards, and communicate findings in a clear and actionable way. 
-
-
-
-👩‍💻 I'm currently working on an Automated Public Health Reporting Pipeline
