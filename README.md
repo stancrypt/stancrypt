@@ -7,8 +7,10 @@ I am a Data Analyst
 
 
 
-## 🔗 Links
+## 🔗 Connect with me on
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nnamdi-ogbonna-8b8258208/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/stancrypt/stancrypt/)
+[![Gmail](https://img.shields.io/badge/gmail-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](stanley.ogb11@gmail.com)
 
 
 
