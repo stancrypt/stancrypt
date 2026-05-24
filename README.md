@@ -15,6 +15,14 @@
 
 <br/><br/>
 
+<h2 align="center">Languages and Tools</h2>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,js,html,css,bash,pytorch,tensorflow,sklearn,fastapi,flask,django,git,github,githubactions,postgres,mysql,&perline=12" alt="Tech Stack"/>
+</p>
+
+<br/>
+
 <h2 align="center">🔗 Connect With Me</h2>
 
 <p align="center">
