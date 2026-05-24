@@ -19,10 +19,22 @@
 
 <br/>
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nnamdi-ogbonna-8b8258208/)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/stancrypt/stancrypt/)
-[![Gmail](https://img.shields.io/badge/gmail-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](stanley.ogb11@gmail.com)
+<h2 align="center">Connect With Me</h2>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/nnamdi-ogbonna-8b8258208" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>&nbsp;
+<a href="mailto:stanley.ogb11@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>&nbsp;
+<a href="https://stancrypt.github.io/Nnamdi_portfolio.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/stancrypt/stancrypt/" alt="Portfolio"/>
+</a>&nbsp;
+
+</p>
+
+<br/>
 
 <h2 align="center">GitHub Contributions</h2>
 
