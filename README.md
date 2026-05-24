@@ -15,11 +15,7 @@
 
 <br/><br/>
 
-<h2 align="center">🔗 Connect with me on</h2>
-
-<br/>
-
-<h2 align="center">Connect With Me</h2>
+<h2 align="center">🔗 Connect With Me</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nnamdi-ogbonna-8b8258208" target="_blank">
