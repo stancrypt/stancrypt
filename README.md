@@ -13,7 +13,6 @@ I am a Data Analyst
 
 
 # GitHub Stats
-# [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stancrypt&theme=algolia&border_radius=5.3)](https://github.com/stancrypt)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stancrypt&theme=algolia&border_radius=5.3&mode=weekly)]((https://github.com/stancrypt))
 ## 🛠 Skills
 Python & R programming, SQL, Power BI, SPSS, SMART PLS, MATLAB, Excel.
