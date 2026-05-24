@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**stancrypt/stancrypt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Stanley!
+I am a Data Analyst
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/stancrypt/stancrypt/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nnamdi-ogbonna-8b8258208/)
+
+
+
+# GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stancrypt&theme=algolia)](https://git.io/streak-stats)
+## 🛠 Skills
+Python & R programming, SQL, Power BI, SPSS, SMART PLS, MATLAB, Excel.
+
+I transform raw data into meaningful insights that support decision-making, improve operations, and solve real-world problems. I work with tools several to collect, clean, analyze, and visualize data, helping organizations identify trends, measure performance, and make data-driven decisions.
+
+My projects represent practical solutions to business and public health challenges. They demonstrate my ability to manage data, build automated reporting systems, perform statistical analysis, create interactive dashboards, and communicate findings in a clear and actionable way. 
+
+
+
+👩‍💻 I'm currently working on an Automated Public Health Reporting Pipeline
