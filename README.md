@@ -11,7 +11,7 @@
 <img align="right" height="250" width="350" alt="GIF" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"/>
 <img align="right" src="spacer.png"/>
 
-<p align="justify">I transform raw data into meaningful insights that support decision-making, improve operations, and solve real-world problems. I work with tools several to collect, clean, analyze, and visualize data, helping organizations identify trends, measure performance, and make data-driven decisions. My projects represent practical solutions to business and public health challenges. They demonstrate my ability to manage data, build automated reporting systems, perform statistical analysis, create interactive dashboards, and communicate findings in a clear and actionable way.</p>
+<p align="justify">I transform raw data into meaningful insights that support decision-making, improve operations, and solve real-world problems. I work with several tools to collect, clean, analyze, and visualize data, helping organizations identify trends, measure performance, and make data-driven decisions. My projects represent practical solutions to business and public health challenges. They demonstrate my ability to manage data, build automated reporting systems, perform statistical analysis, create interactive dashboards, and communicate findings in a clear and actionable way.</p>
 
 <br/><br/>
 
